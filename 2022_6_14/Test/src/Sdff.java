@@ -1,0 +1,38 @@
+public class Sdff {
+    private int id;
+    private String name;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+
+    public Sdff() {
+
+    }
+
+    public Sdff(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Sdff{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                '}';
+    }
+}
