@@ -1,2 +1,2 @@
 # learning-C-
-In this repository,i'will update learning C++and QT content
+In this repository,i'will update learning java content
