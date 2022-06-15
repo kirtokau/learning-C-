@@ -1,2 +1,2 @@
 # learning-java-
-In this repository,I'will update learning java content
+In this repository,I'will update learning C++ and QT content
